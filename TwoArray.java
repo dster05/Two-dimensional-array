@@ -67,12 +67,12 @@ public static void pRow(int[][] myArray){ //should print out a two dimensional a
 		System.out.println("");
 	}
 }
-/*public static void pColumn(int[][] myArray){		//should print the columns of a two dimensional array
+public static void pColumn(int[][] myArray){		//should print the columns of a two dimensional array
 	for(int k = 0; k < myArray.length; k++){
 		for(int i = 0; i < 8; i++){		//rows
 		 System.out.print(myArray[i][k]);// changing how to print the rows and columns does nothing
 		}
 		System.out.println("");
 	}	
-}*/
+}
 }
